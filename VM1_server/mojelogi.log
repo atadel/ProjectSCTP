@@ -1,0 +1,74 @@
+May 24 18:18:27 UbuntuDwa ./logtest[198345]: Program started by User 0 with ID = 1000
+
+May 24 18:18:27 UbuntuDwa ./logtest[198345]: Wynik operacji = Success
+
+May 24 18:18:27 UbuntuDwa ./logtest[198345]: Wysyłam log informacyjny!
+
+May 24 18:18:27 UbuntuDwa ./logtest[198345]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:33 UbuntuDwa ./logtest[198359]: Program started by User 0 with ID = 1000
+
+May 24 18:18:33 UbuntuDwa ./logtest[198359]: Wynik operacji = Success
+
+May 24 18:18:33 UbuntuDwa ./logtest[198359]: Wysyłam log informacyjny!
+
+May 24 18:18:33 UbuntuDwa ./logtest[198359]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:38 UbuntuDwa ./logtest[198373]: Program started by User 0 with ID = 1000
+
+May 24 18:18:38 UbuntuDwa ./logtest[198373]: Wynik operacji = Success
+
+May 24 18:18:38 UbuntuDwa ./logtest[198373]: Wysyłam log informacyjny!
+
+May 24 18:18:38 UbuntuDwa ./logtest[198373]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:43 UbuntuDwa ./logtest[198390]: Program started by User 0 with ID = 1000
+
+May 24 18:18:43 UbuntuDwa ./logtest[198390]: Wynik operacji = Success
+
+May 24 18:18:43 UbuntuDwa ./logtest[198390]: Wysyłam log informacyjny!
+
+May 24 18:18:43 UbuntuDwa ./logtest[198390]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:48 UbuntuDwa ./logtest[198404]: Program started by User 0 with ID = 1000
+
+May 24 18:18:48 UbuntuDwa ./logtest[198404]: Wynik operacji = Success
+
+May 24 18:18:48 UbuntuDwa ./logtest[198404]: Wysyłam log informacyjny!
+
+May 24 18:18:48 UbuntuDwa ./logtest[198404]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:53 UbuntuDwa ./logtest[198418]: Program started by User 0 with ID = 1000
+
+May 24 18:18:53 UbuntuDwa ./logtest[198418]: Wynik operacji = Success
+
+May 24 18:18:53 UbuntuDwa ./logtest[198418]: Wysyłam log informacyjny!
+
+May 24 18:18:53 UbuntuDwa ./logtest[198418]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:53 ubuntutrzy ./logtest[6005]: Program started by User with ID = 1000
+
+May 24 18:18:53 ubuntutrzy ./logtest[6005]: Wynik operacji = Success
+
+May 24 18:18:53 ubuntutrzy ./logtest[6005]: Wysyłam log informacyjny!
+
+May 24 18:18:53 ubuntutrzy ./logtest[6005]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:58 UbuntuDwa ./logtest[198432]: Program started by User 0 with ID = 1000
+
+May 24 18:18:58 UbuntuDwa ./logtest[198432]: Wynik operacji = Success
+
+May 24 18:18:58 UbuntuDwa ./logtest[198432]: Wysyłam log informacyjny!
+
+May 24 18:18:58 UbuntuDwa ./logtest[198432]: Wysyłam komunikat o błędzie!
+
+May 24 18:18:59 ubuntutrzy ./logtest[6007]: Program started by User with ID = 1000
+
+May 24 18:18:59 ubuntutrzy ./logtest[6007]: Wynik operacji = Success
+
+May 24 18:18:59 ubuntutrzy ./logtest[6007]: Wysyłam log informacyjny!
+
+May 24 18:18:59 ubuntutrzy ./logtest[6007]: Wysyłam komunikat o błędzie!
+
+May 24 18:19:03 UbuntuDwa ./logtest[198446]: Program started by User 0 with ID = 1000
+
