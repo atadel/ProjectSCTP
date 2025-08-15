@@ -1,2 +1,4 @@
 # ProjectSCTP
-Project created during network programming classes
+This project, completed as part of my network programming coursework, is a practical demonstration of using the Stream Control Transmission Protocol (SCTP) for reliable log forwarding.
+
+Project implements a log forwarding system using the Stream Control Transmission Protocol. System consists of two main components - client and server. The client component includes a background script on the client machine monitors a local log file (/var/log/local7) for any new entries. When a change is detected, the script securely sends only the new log data to the server using SCTP. The server component listens for incoming log data from the client. Upon receiving the logs, it writes them to its own local log file, creating a centralized record of all events. Topology consist of one server machine and two client machines. 
